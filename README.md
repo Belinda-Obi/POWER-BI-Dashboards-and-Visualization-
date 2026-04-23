@@ -1,4 +1,4 @@
-# POWER BI Dashboards and Visualisation
+# POWER BI Business Intelligence Suite 
 
 # Adventure Works Executive Sales Dashboard 
 
