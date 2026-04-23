@@ -1,5 +1,7 @@
 # POWER BI Business Intelligence Suite 
 
+A collection of end to end data visualization projects transforming raw buisness data into actionable executive insights.
+
 # Adventure Works Executive Sales Dashboard 
 
 **Focus:** 
