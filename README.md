@@ -1,6 +1,8 @@
-# POWER BI Business Intelligence Suite 
+# Project 3:POWER BI Business Intelligence Suite 
 
-A collection of end to end data visualization projects transforming raw buisness data into actionable executive insights.
+# Overview 
+
+In this 3RD project of the my "Data Suite " projects , a collection of end to end data visualization projects have been used to show transformation of  raw buisness data into actionable executive insights.
 
 # Adventure Works Executive Sales Dashboard 
 
